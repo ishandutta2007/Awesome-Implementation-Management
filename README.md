@@ -48,9 +48,9 @@ The table below ranks commercial implementation management and client onboarding
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are open-source project management systems, open PSA platforms, and self-hostable suites suitable for customer implementations, sorted by GitHub star count (descending):
+Below are open-source project management systems, open PSA platforms, and self-hostable suites suitable for customer implementations, sorted by GitHub Stars_Count (descending):
 
-| Repository 📦 | GitHub Stars ⭐ | Description 📝 | License 📜 |
+| Repository 📦 | GitHub_Stars ⭐ | Description 📝 | License 📜 |
 | :--- | :--- | :--- | :--- |
 | **[Plane](https://github.com/makeplane/plane)** | [![Plane Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | Modern open-source issue tracking & delivery platform for complex onboarding workflows. | AGPL-3.0 |
 | **[Odoo Community](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Comprehensive modular ERP containing Project, Timesheet, and Customer Portal apps. | LGPL-3.0 |
